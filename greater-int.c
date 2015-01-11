@@ -1,6 +1,6 @@
 /*
  * Author: Me
- * Date: Jan 2015
+ * Date: 11 Jan 2015
  * About: function receives two integer arguments and returns greater of them,
  * if arguments are equal than it returns first of them
  */
