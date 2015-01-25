@@ -14,7 +14,7 @@ void insertion_sort(int *array, unsigned N){
 		while(prevKey >= 0 && array[prevKey] > current){
 			array[prevKey + 1] = array[prevKey];
 			array[prevKey] = current;
-			prevKey = prevKey - 1;
+			--prevKey;
 		}
 	}
 }
