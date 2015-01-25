@@ -1,7 +1,7 @@
 /* 
  * Author: Me & Wikipedia
  * Date: 25 Jan 2015
- * About: Shell sort of integer array with length N.
+ * About: Shell sort of an integer array of length N.
  * d(1) = N/2, d(i) = d(i-2)/2, d(k) = 1.
  */
  
